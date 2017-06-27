@@ -1,1 +1,1 @@
-"# MC-BannedWords" 
+# MC-BannedWords
