@@ -1,0 +1,7 @@
+name: BannedWords
+main: com.ryozuki.bannedwords.BannedWords
+version: 1.0
+commands:
+  bw:
+    description: Command to censor words
+    usage: "Usage: /bw help"
